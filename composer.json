@@ -1,0 +1,20 @@
+{
+  "name": "zhuwene/pseudo-original",
+  "description": "伪原创文章生成",
+  "authors": [
+    {
+      "name": "zhuwene",
+      "email": "374848541@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.0.9"
+  },
+  "autoload": {
+    "psr-4": {
+      "zhuweneTrans\\": "src/"
+    }
+  },
+  "license": "MIT"
+}
