@@ -1,2 +1,8 @@
 # pseudoOriginal
-伪原创文章生成
+### 安装方法
+```
+composer require zhuwene/pseudo-original
+```
+### 使用方法
+
+
